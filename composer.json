@@ -1,0 +1,12 @@
+{
+    "name": "brunoramalho/game-of-life",
+    "description": "Game of Life",
+    "autoload": {
+        "psr-4": {
+            "GameOfLife\\": "src/"
+        }
+    },
+    "require": {
+        "phpmetrics/phpmetrics": "^2.0"
+    }
+}
